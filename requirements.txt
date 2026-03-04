@@ -1,0 +1,6 @@
+flask
+pdfplumber
+scikit-learn
+nltk
+reportlab
+gunicorn
